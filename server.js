@@ -2,7 +2,7 @@
 //var app = require('express')();
 const express = require('express')
 const path = require('path')
-const PORT = 3000
+const PORT = 21497
 // passa o express para o http-server
 //var http = require('http').Server(express);
 // passa o http-server par ao socketio
